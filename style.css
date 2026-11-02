@@ -1,0 +1,36 @@
+
+body {
+    background-color: #eeeeee;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: #222222;
+    color: white;
+    padding: 30px;
+}
+
+h2 {
+    color: #2463a6;
+    margin-top: 40px;
+}
+
+p {
+    font-size: 18px;
+    margin: 20px;
+}
+
+img {
+    width: 400px;
+    max-width: 90%;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #222222;
+    color: white;
+    padding: 15px;
+    margin-top: 40px;
+}
